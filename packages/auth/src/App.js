@@ -29,4 +29,5 @@ const App = ({ history, onSignIn }) => {
   );
 };
 //Check
+//This is lading page for MFE
 export default App;
